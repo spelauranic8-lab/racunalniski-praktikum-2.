@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1793282890.32884 "c:/Users/spela/OneDrive/Dokumenti/RP/racunalniski-praktikum/05-latex/test/urnik.tex" "urnik.pdf" "urnik" 1793282891.12761 2
+["pdflatex"] 1793283416.85038 "c:/Users/spela/OneDrive/Dokumenti/RP/racunalniski-praktikum/05-latex/test/urnik.tex" "urnik.pdf" "urnik" 1793283417.61271 2
   "C:/Users/spela/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1793280545 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/spela/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/ecbx0900.pk" 1793278906 22504 c276ca42334a40d7ead0a43ace1d4d9f ""
   "C:/Users/spela/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/ecbx1000.pk" 1793279536 25420 707c10451d9a296054ccf638804594e8 ""
@@ -9,6 +9,7 @@
   "C:/Users/spela/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/ecrm1000.pk" 1793278845 23808 aa617e737747efed67bce19952ad126b ""
   "C:/Users/spela/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/ecti1000.pk" 1793280781 31892 3ad438e1ee0502299a72da733070cfe6 ""
   "C:/Users/spela/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/ectt1000.pk" 1793279538 20028 1eb33fc09f8ff4f42d1dc8eed83b450c ""
+  "C:/Users/spela/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1000.pk" 1793283415 11548 5df5f3614a87a5d7b662c05473c5e7e3 ""
   "C:/Users/spela/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1793277297 13333488 e2c976c6acb07c9e2ca65a56895ebeeb ""
   "C:/Users/spela/AppData/Local/Programs/MiKTeX/fonts/tfm/jknappen/ec/ecbx0900.tfm" 993061954 3200 f959f56c26f697d341ba38dba18fe1f8 ""
   "C:/Users/spela/AppData/Local/Programs/MiKTeX/fonts/tfm/jknappen/ec/ecbx1000.tfm" 993061956 3200 328792ff19833a39406f06fa0555a6dc ""
@@ -22,6 +23,7 @@
   "C:/Users/spela/AppData/Local/Programs/MiKTeX/fonts/tfm/jknappen/ec/ecrm1440.tfm" 993062128 3168 3bd7b08ba4330af81521911744311212 ""
   "C:/Users/spela/AppData/Local/Programs/MiKTeX/fonts/tfm/jknappen/ec/ecti1000.tfm" 993062320 2840 5606e1a681c23005308de9d61c09a8ff ""
   "C:/Users/spela/AppData/Local/Programs/MiKTeX/fonts/tfm/jknappen/ec/ectt1000.tfm" 993062340 1348 d70ddf2d5d512b838e50a335e385e919 ""
+  "C:/Users/spela/AppData/Local/Programs/MiKTeX/fonts/tfm/jknappen/ec/tcrm1000.tfm" 993062508 1436 c7f957a372ef2fbe93c0982f96625e12 ""
   "C:/Users/spela/AppData/Local/Programs/MiKTeX/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1233951848 1004 54797486969f23fa377b128694d548df ""
   "C:/Users/spela/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb" 1247596667 36281 c355509802a035cadc5f15869451dcee ""
   "C:/Users/spela/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb" 1247596667 35752 024fb6c41858982481f6968b5fc26508 ""
@@ -42,9 +44,9 @@
   "C:/Users/spela/AppData/Local/Programs/MiKTeX/tex/latex/base/inputenc.sty" 1761900684 5048 0270515b828149155424600fd2d58ac5 ""
   "C:/Users/spela/AppData/Local/Programs/MiKTeX/tex/latex/base/size10.clo" 1761900684 8448 686612a86f0e04f41ea577f5ec7e83d8 ""
   "C:/Users/spela/AppData/Local/Programs/MiKTeX/tex/latex/l3backend/l3backend-pdftex.def" 1761202581 30662 bfd6e864f4ffc5018b0e2b6260c3181c ""
-  "c:/Users/spela/OneDrive/Dokumenti/RP/racunalniski-praktikum/05-latex/test/urnik.tex" 1793282887 29433 d399e7d437cd290e6e42af6d38f23b03 ""
-  "urnik.aux" 1793282890 1589 cd537cfa033b22797bd3448cff3b6577 "pdflatex"
-  "urnik.tex" 1793282887 29433 d399e7d437cd290e6e42af6d38f23b03 ""
+  "c:/Users/spela/OneDrive/Dokumenti/RP/racunalniski-praktikum/05-latex/test/urnik.tex" 1793283412 29511 36a7c1461e5370ab2e651aea5b46bdfe ""
+  "urnik.aux" 1793283417 1589 bfd4a6589f970b0dbb3420327684061e "pdflatex"
+  "urnik.tex" 1793283412 29511 36a7c1461e5370ab2e651aea5b46bdfe ""
   (generated)
   "urnik.aux"
   "urnik.log"
